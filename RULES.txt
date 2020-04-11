@@ -1,0 +1,62 @@
+
+|---------------------------------------------------------------------RULES-----------------------------------------------------------------------------------------------------|
+Below are the rules that must be followed while writing any C program in to the file c-program.txt
+
+1) C Program is limited to 200 lines only!.
+
+2) Standard indentation must be followed.
+
+3) scanf("%d%d",&a,&b) => This is not allowed and must instead be written in the format.
+		       => scanf("%d",&a);
+			  scanf("%d",&b);
+
+4) In scanf all the variables must be written with & symbol preceding it incuding arrays.
+
+5) int a=20,b=30; => This is not allowed and must instead be written in the format.
+		  => int a,b;
+		     a=20;
+		     b=30;
+
+6) Only i++ and i-- are allowed , --i and ++i will no be considered.
+
+7) Integer arrays must be written separately in an individual line.
+
+8) All switch cases must contain a default.
+
+9) In switch cases:-
+	case 'a':i++;   => This is not allowed and must instead be written in the format.
+		 break; 
+		        => case 'a':
+				    i++;
+				    break;
+
+   Same rule applies for default as well
+
+10) printf should not be more that three tab spaces away from the start of new line
+
+11) There must be spaces before and after the logical operator. For example, if(a==b||c==d&&p==g) will not be accepted
+    it must be given as if(a==b || c==d && p==g) 
+
+12) Proper indentation must be used while entering the C code for if-else if-else statements. 
+    For example:
+    Accepted-
+    if(a==b)
+    {
+	  printf("Hello");
+    }
+    Not Accepted:
+    if(a==b)
+    {
+         printf("Hello");
+    }
+
+                                For Loops-
+13) Proper indentation must be used while entering the C code.
+
+14) The iteration variable must be only one character. i.e, i, j, k, etc..
+
+15) Reverse iteration is not supported.
+
+16)For loop statement cannot be more than 3 tab spaces away from the start if new line
+
+     
