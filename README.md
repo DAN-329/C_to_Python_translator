@@ -81,20 +81,20 @@ void variable(char a[200][100],int *num)
  
 ![](images/p1.JPG)
 
-<p style="text-align: center;">Fig 1: c-program.txt (Input file)</p>
+<p align="center">Fig 1: c-program.txt (Input file)</p>
 
 ![](images/p2-1.JPG)
 
-<p style="text-align: center;">Fig 2: Program execution</p>
+<p align="center">Fig 2: Program execution</p>
 
 ![](images/p2-2.JPG)
 
-<p style="text-align: center;">Fig 3: Program execution</p>
+<p align="center">Fig 3: Program execution</p>
  
 ![](images/p2-3.JPG)
 
-<p style="text-align: center;">Fig 4: Program execution (Final Output)</p>
+<p align="center">Fig 4: Program execution (Final Output)</p>
 
 ![](images/p3.JPG)
 
-<p style="text-align: center;">Fig 5: py-program.txt (Output file)</p>
+<p align="center">Fig 5: py-program.txt (Output file)</p>
