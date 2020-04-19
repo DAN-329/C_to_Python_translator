@@ -1,4 +1,4 @@
-# C_to_Python_translator
+# C to Python Translator
 ## Summary:
 Using FIle I/O we were able to convert C code written in one text file to Python code in another text file with the application of multiple function that could identify and accordingly process specific key words and formats used in the C language.
 
@@ -79,12 +79,22 @@ void variable(char a[200][100],int *num)
 
 ## Output Screenshots:
  
-Fig 1: c-program.txt (Input file)
+![](images/p1.JPG)
+
+`Fig 1: c-program.txt (Input file)`
+
+![](images/p2-1.JPG)
+
+`Fig 2: Program execution`
+
+![](images/p2-2.JPG)
+
+`Fig 3: Program execution`
  
-Fig 2: Program execution
- 
-Fig 3: Program execution
- 
-Fig 4: Program execution (Final Output)
- 
-Fig 5: py-program.txt (Output file)
+![](images/p2-3.JPG)
+
+`Fig 4: Program execution (Final Output)`
+
+![](images/p3.JPG)
+
+`Fig 5: py-program.txt (Output file)`
