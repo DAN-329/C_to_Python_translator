@@ -2,7 +2,7 @@
 ## Summary:
 Using FIle I/O we were able to convert C code written in one text file to Python code in another text file with the application of multiple function that could identify and accordingly process specific key words and formats used in the C language.
 
-## Group members:
+## Developed By:
 1.	Daniel Lester Saldanha - [Linkedin](https://www.linkedin.com/in/daniel-saldanha-31660a19a/) , [DAN-329](https://github.com/DAN-329)
 2.	Abhiram Prakash Alamuri – [Linkedin](https://www.linkedin.com/in/abhiram-prakash-alamuri-43289a1a6/), [abhiramalamuri2](https://github.com/abhiramalamuri2)
 
